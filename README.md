@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Hadi-loo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-Hadi-loo/Hadi-loo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-loo&layout=compact&theme=dracula&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hadi-loo&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+</div>
